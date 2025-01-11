@@ -5,7 +5,6 @@
 First, create a new file named `.env.local`. key, [Clerk](https://clerk.com/docs/upgrade-guides/api-keys) key, the,[scrapingant](https://app.scrapingant.com/webscrapingapi)  and the [Vapi assitant](https://dashboard.vapi.ai/org/api-keys) there.
 
 `
-NVIDIA_API_KEY=""
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=""
 CLERK_SECRET_KEY=""
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
